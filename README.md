@@ -1,4 +1,4 @@
-# ITE306-Covid-Care-Website-Velasquez_Jewel
+# Covid-Care-Website
 Website Name: Covid-Care Website | This website is about health tips regarding Coronavirus Disease (COVID-19).
 
 1. Run health.py
